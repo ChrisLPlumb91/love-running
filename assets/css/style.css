@@ -206,3 +206,11 @@ hr {
 #times h2 {
     color: #fafafa;
 }
+
+footer li {
+    display: inline-block;
+}
+
+footer a {
+    color:#252525;
+}
